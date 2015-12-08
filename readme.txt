@@ -13,11 +13,8 @@ Git me.\
 Creating a new branch is quick.\
 ..\
 woqu zahuishi.\
-\pard\pardeftab720
-\cf0 \expnd0\expndtw0\kerning0
-Creating a new branch is quick & simple.\
-\pard\pardeftab720
-\cf0 \expnd0\expndtw0\kerning0
-Creating a new branch is quick AND simple.\expnd0\expndtw0\kerning0
+\
+Creating a new branch is quick AND simple.\
+\
 \
 }
